@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">PokeApi</string>
+    <string name="title_welcome">Bienvenidos</string>
+    <string name="title_search_id">Buscador Pokemon por ID</string>
+    <string name="title_search_name">Buscador Pokemon porn Nombre</string>
+    <string name="description_welcome">Toda la información de Pokemon en un solo lugar</string>
+    <string name="button_welcome">Iniciar</string>
+    <string name="button_search">Buscar</string>
+    <string name="title_activity_bottom_navigation">PokeApi</string>
+    <string name="title_searchView">Título</string>
+    <string name="hint_searchView">Buscar</string>
+    <string name="title_id_pokemon">ID Pokemon</string>
+    <string name="title_name_pokemon">Nombre Pokemon</string>
+    <string name="title_activity_base">BaseActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
